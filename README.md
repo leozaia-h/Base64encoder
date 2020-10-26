@@ -1,3 +1,5 @@
 # Base64encoder
 
-The entire code was written by me, except the int_to_bin function that I took from here: https://stackoverflow.com/questions/5488377/converting-an-integer-to-binary-in-c
+O código inteiro foi escrita por mim, exceto a função int_to_bin que eu tirei daqui: https://stackoverflow.com/questions/5488377/converting-an-integer-to-binary-in-c
+
+Por conta da biblioteca <math.h>, compile -lm
