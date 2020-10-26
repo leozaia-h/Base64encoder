@@ -120,6 +120,7 @@ int main(void)
 	printf("\nTexto Codificado:\n");
 	for(i = 0; i < cont; i++)
 		printf("%c", B64_gen(test[i]));
+	
 	while(igual > 0)
 	{
 		printf("=");
