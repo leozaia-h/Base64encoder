@@ -4,6 +4,7 @@ O código inteiro foi escrita por mim, exceto a função int_to_bin que eu tirei
 <ul>
 <li>Por conta da biblioteca <math.h>, compile assim:</li>
 <ul>
+  
 ```
 gcc encode.c -o encode -lm
 ```
